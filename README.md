@@ -39,8 +39,8 @@ The **Admin Panel** allows administrators and nutritionists to manage users, mon
 - ⚙️ **Admin Settings**
 
 ### Preview
-![Admin Mockup](<img width="1801" height="350" alt="Screenshot 2025-08-27 231148" src="https://github.com/user-attachments/assets/605239e9-c7cf-4c6c-a5be-aff7285039fa" />
-)
+<img width="1801" height="350" alt="Screenshot 2025-08-27 231148" src="https://github.com/user-attachments/assets/56c99d0c-0171-4a44-8793-6dcfbaa2b7f7" />
+
 
 👉 Full design available on Figma:  
 [🔗 View Admin Panel on Figma](https://www.figma.com/design/LqhhiiIW27oIMyA8Si4qor/Untitled?node-id=87-773)
